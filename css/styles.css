@@ -471,6 +471,7 @@ output {
 }
 
 iframe {
+  width: auto;
   border: 0;
 }
 
